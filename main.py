@@ -6,7 +6,7 @@ stemmer = LancasterStemmer()
 import numpy
 # from tensorflow import *
 import tflearn
-# from tensorflow.python.compiler.tensorrt import trt
+from tensorflow.python.compiler.tensorrt import trt
 import tensorflow.contrib.tensorrt
 import tensorflow
 import random
