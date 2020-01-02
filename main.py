@@ -4,7 +4,7 @@ from nltk.stem.lancaster import LancasterStemmer
 stemmer = LancasterStemmer()
 
 import numpy
-# from tensorflow import *
+from tensorflow import *
 import tflearn
 from tensorflow.python.compiler.tensorrt import trt
 import tensorflow.contrib.tensorrt
